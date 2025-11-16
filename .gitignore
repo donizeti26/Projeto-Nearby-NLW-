@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-nlw-pocket-mobile-api-main/
+api/
 # Expo
 .expo/
 dist/
